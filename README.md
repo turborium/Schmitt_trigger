@@ -9,7 +9,7 @@ https://youtu.be/WpkBAS-Ou-k
 
 ## good:
 ### Хорошая схема
-![[хорошая схема](good_circuit.png)
+![хорошая схема](good_circuit.png)
 ### Работа хорошей схемы
 ![работа хорошей схемы](good_work.png)
 ### Петля гестерезиса
