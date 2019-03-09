@@ -1,5 +1,6 @@
 # Schmitt_trigger
 https://youtu.be/WpkBAS-Ou-k
+[![видео](https://img.youtube.com/vi/WpkBAS-Ou-k/0.jpg)](https://www.youtube.com/watch?v=WpkBAS-Ou-k)
 
 ## bad:
 ### Плохая схема
